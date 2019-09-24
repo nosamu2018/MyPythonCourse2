@@ -21,6 +21,6 @@ print(h)
 #Operators with integers
 x,y=11,5
 print("x+4 is", x+4)
-print("x//y is" x//y)
-print("12%5 is" 12%5)
-print ("x**y is" x**y)
+print("x//y is", x//y)
+print("12%5 is", 12%5)
+print ("x**y is", x**y)
