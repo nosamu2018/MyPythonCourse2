@@ -27,5 +27,4 @@ print(price_per_ounce2)
 
 print("Product 1 is cheaper",price_per_ounce1 < price_per_ounce2)
 
-print("are they equal", price_per_ounce1==price_per_ounce2)
 
