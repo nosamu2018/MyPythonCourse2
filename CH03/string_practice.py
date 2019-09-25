@@ -13,10 +13,10 @@ He just sat down and ate his face
 "We can't have this!" his dad declared
 "If that lad's ate he should be shared"'''
 
-Print (haggis_poem)
+print (haggis_poem)
 
 #Formatting string literals
-Print ("#Formatting string literals")
+print ("#Formatting string literals")
 name= 'Francois'
 greeting = f'Bonjour{name}!'
 print(greeting)
